@@ -21,7 +21,10 @@ Save it.
 Use `git status` to look at current status
 
 Stage it
-
+- `git add ....<file>`
+  
 Commit it (with a description).
-
+- `git commit`
+  
 Push it.
+- `git push`
