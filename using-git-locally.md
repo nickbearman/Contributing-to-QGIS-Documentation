@@ -28,3 +28,5 @@ Commit it (with a description).
   
 Push it.
 - `git push`
+
+Then try adding an image in RST. See `example-1.rst` for an example. 
