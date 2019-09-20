@@ -14,7 +14,7 @@ including each type of layout items described in the previous section.
 
 .. _figure_layout_output:
 
-.. figure:: img/print_composer_complete.png
+.. figure:: img/Rubbish_Layout.png
    :align: center
    :width: 100%
 
