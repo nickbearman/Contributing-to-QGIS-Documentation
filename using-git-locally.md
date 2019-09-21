@@ -28,12 +28,14 @@ We can clone our repo and use it locally on our machine, then sync (push) the ch
 
 - Push to your remote repo
 	- `git push`
-	- *It should give you a link on GitHub*. 
+	- *It should give you a link on GitHub saying `Create a pull request`, if so, go to this link, and skip the next step*. 
 	
 - Create Pull Request (on GitHub)
 	- Select ![](img/compare-across-forks.png){ height=30 }. 
 	- Compare `nickbearman/Contributing-to-QGIS-Documentation` with `<your username>/Contributing-to-QGIS-Documentation`.
 	- Click **Create Pull Request**. 
+	
+- Add details and submit your pull request (on GitHub)
 	- Fill in the details and click **Create pull request**. 
 	
 
