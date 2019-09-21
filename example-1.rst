@@ -1,4 +1,4 @@
-.. _create-output:
+﻿.. _create-output:
 
 *******************
  Creating an Output
@@ -30,10 +30,6 @@ layout to different file formats, and it is possible to modify the resolution
 * The |filePrint| :sup:`Print` icon allows you to print the layout to a
   connected printer or a PostScript file, depending on installed printer drivers
 
-.. figure:: img/foss4guk.png
-   :align: center
-   :width: 100%
-
 .. figure:: img/Print.png
    :align: center
    :width: 100%
@@ -53,3 +49,6 @@ are:
 * the :guilabel:`Exclude item from exports` in the :ref:`item properties
   <layout_Rendering_Mode>` panel.
 
+.. figure:: img/download.jpg
+   :align: center
+   :width: 100%
