@@ -1,4 +1,4 @@
-.. _create-output:
+﻿.. _create-output:
 
 *******************
  Creating an Output
@@ -49,3 +49,6 @@ are:
 * the :guilabel:`Exclude item from exports` in the :ref:`item properties
   <layout_Rendering_Mode>` panel.
 
+.. figure:: img/download.jpg
+   :align: center
+   :width: 100%

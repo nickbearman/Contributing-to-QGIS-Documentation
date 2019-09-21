@@ -5,8 +5,11 @@ We can clone our repo and use it locally on our machine, then sync (push) the ch
 - Download Git from https://git-scm.com/downloads
 - Install it
 	- Set editor to `Nano`
-- Clone repo
-	- Go to whereever your folder is
+
+- Fork repo (on GitHub)
+
+- Clone repo (`username/Contributing-to-QGIS-Documentation.git`)
+	- Go to wherever your folder is
 	- Right click - Git Bash
 	- Type in 
 
