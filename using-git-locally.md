@@ -9,9 +9,9 @@ We can clone our repo and use it locally on our machine, then sync (push) the ch
 
 - Fork the repo (on GitHub.com)
 	- Go to `https://github.com/nickbearman/Contributing-to-QGIS-Documentation`
-	- Click the ![](img/fork.png) button to copy the repo to your profile and wait a few seconds while it completes
+	- Click the ![](img/fork.png){ height=35 } button to copy the repo to your profile and wait a few seconds while it completes
 	- Click **Clone or download**
-	- Use the copy clipboard icon ![](img/copy-to-clipboard.png) to copy the path to the clipboard
+	- Use the copy clipboard icon ![](img/copy-to-clipboard.png){ height=35 } to copy the path to the clipboard
 
 - Clone repo (on your computer)
 	- Go to wherever your folder is
@@ -31,7 +31,7 @@ We can clone our repo and use it locally on our machine, then sync (push) the ch
 	- *It should give you a link on GitHub*. 
 	
 - Create Pull Request (on GitHub)
-	- Select ![](img/compare-across-forks.png). 
+	- Select ![](img/compare-across-forks.png){ height=30 }. 
 	- Compare `nickbearman/Contributing-to-QGIS-Documentation` with `<your username>/Contributing-to-QGIS-Documentation`.
 	- Click **Create Pull Request**. 
 	- Fill in the details and click **Create pull request**. 
